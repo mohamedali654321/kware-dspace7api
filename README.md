@@ -1,2 +1,0 @@
-"# kwareict_space" 
-# DSpace
